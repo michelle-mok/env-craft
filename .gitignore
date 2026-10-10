@@ -25,3 +25,6 @@ dist-ssr
 
 # Blender backup files
 *.blend1
+
+# Windows download markers
+*:Zone.Identifier
